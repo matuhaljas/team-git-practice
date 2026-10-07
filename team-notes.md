@@ -1,1 +1,1 @@
-Team motto: Mis ei tapa teeb tugevamaks.
+Team motto: Üks branch, üks mure.

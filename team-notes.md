@@ -1,1 +1,1 @@
-Team motto: To be decided.
+Team motto: Mis ei tapa teeb tugevamaks.

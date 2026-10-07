@@ -1,6 +1,6 @@
 const { test } = require('node:test');
 const assert = require('node:assert/strict');
-const { countCompleted } = require('./countCompleted:samuel-beekmann.cjs');
+const { countCompleted } = require('./samuel-beekmann.cjs');
 
 // 1. Tavaline juhtum: segamini tehtud ja tegemata elemendid
 test('tavaline juhtum: loeb kokku elemendid, mille completed on true', () => {

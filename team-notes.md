@@ -1,1 +1,1 @@
-Team motto: measure twice, cut once.git a
+Team motto: Mis ei tapa teeb tugevamaks.

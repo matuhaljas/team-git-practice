@@ -1,1 +1,1 @@
-Team motto: To be decided.
+Team motto: measure twice, cut once.git a
